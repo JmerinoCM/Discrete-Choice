@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  7 09:43:42 2022
 
-@author: Campos Ortiz y Merino Zarco
+@author: Merino Zarco
 """
 
 from math import e, exp
