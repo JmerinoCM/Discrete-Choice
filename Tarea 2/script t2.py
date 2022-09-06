@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 22 00:44:10 2022
 
- German Campos y Juan Merino
+Juan Merino
 """
 
 #Modules
