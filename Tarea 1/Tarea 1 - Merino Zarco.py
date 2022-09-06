@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # Tarea 1, Elección Discreta
-# ### Juan José Merino Zarco 
+# ### Merino Zarco 
 
 # ### Pregunta 1 Logit condicional (50 puntos)
 
