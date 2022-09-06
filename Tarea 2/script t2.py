@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 22 00:44:10 2022
 
-Juan Merino
+@author: Merino Zarco
 """
 
 #Modules
