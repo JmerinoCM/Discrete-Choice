@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 15 16:10:30 2022
 Tarea 4
-@author: jujo_
+@author: Merino Zarco
 """
 
 import pandas as pd
