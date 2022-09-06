@@ -1,5 +1,7 @@
 # Elección Discreta: Teoría, estimación y métodos númericos
 
+Trabajos realizados en python.
+
 ## Tarea 1
 
 - Logit condicional
